@@ -3401,12 +3401,14 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
   transition: all 0.5s ease;
 }
 
-.input-group-append .btn, .input-group-prepend .btn {
-  -webkit-box-shadow: none;
+
+ .input-group-append .btn, .input-group-prepend .btn {
+   -webkit-box-shadow: none;
   box-shadow: none;
-  padding-left: 0.75rem;
+   padding-left: 0.75rem;
   padding-right: 0.75rem;
 }
+
 
 .input-group-append .btn:hover, .input-group-prepend .btn:hover {
   -webkit-box-shadow: none;
@@ -3417,7 +3419,7 @@ select.form-control:not([size]):not([multiple]):not(.form-control-sm) {
 #resume-button-1{
   border: none;
   background: inherit;
-  font-weight: 600;
+  font-weight: 550;
 }
 
 .nav-link {
