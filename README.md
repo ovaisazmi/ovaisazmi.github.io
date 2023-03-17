@@ -28,6 +28,7 @@
 
 ```
 
+
 #### You haven't been taught cypress to run the test cases locally, you can see the passed/ failed test cases and test errors on CP itself.
 
 #### CP will attempt to take screenshots of each component in your portfolio. You can view these screenshots in the "Screenshots" dropdown in the logs page. The marks allotted to you are independent of these.
